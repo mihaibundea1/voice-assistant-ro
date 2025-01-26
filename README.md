@@ -1,6 +1,3 @@
-Iată fișierul README.md complet într-un singur bloc:
-
-```markdown
 # 🤖 Asistent Vocal în Limba Română 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
